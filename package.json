@@ -1,0 +1,20 @@
+{
+  "name": "mongoauthentication",
+  "version": "1.0.0",
+  "description": "A (very) simple authentication/user system using MongoDB for Node.js",
+  "main": "module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xTylerCodes/MongoAuth.js.git"
+  },
+  "keywords": [
+    "authentication",
+    "mongodb"
+  ],
+  "author": "Tyler Lafayette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xTylerCodes/MongoAuth.js/issues"
+  },
+  "homepage": "https://github.com/xTylerCodes/MongoAuth.js#readme"
+}
