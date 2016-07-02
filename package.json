@@ -1,6 +1,6 @@
 {
   "name": "mongoauthentication",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A (very) simple authentication/user system using MongoDB for Node.js",
   "main": "module.js",
   "repository": {
